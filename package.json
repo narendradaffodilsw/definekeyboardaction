@@ -1,0 +1,18 @@
+{
+  "name": "definekeyboardaction",
+  "version": "0.0.5",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-define-keyboard-action",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "define-keyboard-action"
+  ],
+  "author": "nandy",
+  "license": "Apache 2.0"
+}
